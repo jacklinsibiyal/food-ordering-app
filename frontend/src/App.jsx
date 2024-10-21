@@ -6,6 +6,7 @@ import Cart from './pages/cart/cart'
 import placeorder from './pages/place order/placeorder'
 const App = () => {
   return (
+    <>
     <div className='app'> 
      <Navbar/>
      <Routes>
@@ -15,6 +16,8 @@ const App = () => {
      </Routes>
       
     </div>
+    <Footer/>
+    </>
   )
 }
 
