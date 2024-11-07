@@ -83,6 +83,7 @@ const Restaurants = () => {
         <div className="restaurants-body">
             <h3>All restaurants</h3>
             <div className="restaurants">
+                
 
                 <div className='restaurant-item'>
                     <div className="restaurant">
