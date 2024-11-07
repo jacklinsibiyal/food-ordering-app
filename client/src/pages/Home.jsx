@@ -49,7 +49,7 @@ const Home = () => {
         </div>
 
         <div className="home-category-card" onClick={()=>navigate('/category/Burger')}>
-          <img src="https://www.bluecirclefoods.com/cdn/shop/products/Blue_Circle_Salmon_Organic_Burger_1000x.jpg?v=1692122703" alt="" />
+          <img src="https://m.media-amazon.com/images/I/6119kB6VIYL._SL1080_.jpg" alt="" />
           <h5>Burger</h5>
         </div>
 
