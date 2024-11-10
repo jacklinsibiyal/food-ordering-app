@@ -60,16 +60,7 @@ To run Cravio locally, follow these steps:
    npm install
    ```
 
-3. **Set up Environment Variables**
-
-   Create a `.env` file in the `server` folder with the following keys:
-   ```
-   PORT=5000
-   MONGODB_URI=your_mongodb_uri
-   JWT_SECRET=your_jwt_secret
-   ```
-
-4. **Start the Development Servers**
+3.  **Start the Development Servers**
 
    Open two terminal windows and run the client and server separately:
 
