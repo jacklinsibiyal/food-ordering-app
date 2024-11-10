@@ -9,10 +9,6 @@ const IndividualRestaurant = () => {
 
   const {fetchCartCount} = useContext(GeneralContext);
 
-    
-
-
-
   const navigate = useNavigate();
 
   const userId = localStorage.getItem('userId');
