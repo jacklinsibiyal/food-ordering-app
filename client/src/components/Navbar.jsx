@@ -119,7 +119,7 @@ const Navbar = () => {
                     src="/logo1.png" 
                     alt="Cravio Logo" 
                     onClick={() => navigate('/admin')}
-                    style={{ cursor: 'pointer', height: "100%", marginRight: '20px' }} // Adjust height and margin as needed
+                    style={{ cursor: 'pointer', height: "100%", marginRight: '5px' }} // Adjust height and margin as needed
                   />
                   
                   <ul>
@@ -137,10 +137,10 @@ const Navbar = () => {
                   {usertype === 'restaurant' ? 
                     <div className="navbar-admin">
                      <img 
-                        src="/logo.png" 
+                        src="/logo1.png" 
                         alt="Cravio Logo" 
                         onClick={() => navigate('/restaurant')}
-                        style={{ cursor: 'pointer', height: '40px', marginRight: '20px' }} // Adjust height and margin as needed
+                        style={{ cursor: 'pointer', height: '130%', marginRight: '5px' }} // Adjust height and margin as needed
                       />
                       
                       <ul>
