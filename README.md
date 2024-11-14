@@ -4,6 +4,10 @@ Cravio is an innovative digital food ordering platform that redefines the online
 
 ---
 
+## Demo Video : [Cravio](https://youtu.be/GvlIGt_6nWg)
+
+---
+
 ## Table of Contents
 - [Features](#features)
 - [Project Structure](#project-structure)
