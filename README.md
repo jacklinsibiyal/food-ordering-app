@@ -121,4 +121,3 @@ For any inquiries or feedback, please reach out to the project team.
 ---
 
 Thank you for checking out Cravio! We hope you enjoy the platform and find it a valuable tool for online food ordering.
-```
